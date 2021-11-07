@@ -56,3 +56,5 @@ We have the x, y and z (distance of the person from camera) coordinates for ever
 
 ![](https://github.com/Subikshaa/Social-Distance-Detection-using-OpenCV/raw/master/demo.gif)
 
+![download](https://user-images.githubusercontent.com/64821137/140650511-1e3df531-8cd5-4de0-99eb-abc697f4bd8b.png)
+
